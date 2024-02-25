@@ -19,8 +19,3 @@ temperature-converter/
 |-- script.js
 |-- README.md
 |-- LICENSE
-## Files
-index.html: HTML file for the web page structure.
-style.css: CSS file for styling the web page.
-script.js: JavaScript file for handling temperature conversion logic.
-LICENSE: License file (e.g., MIT License).
